@@ -6,7 +6,7 @@ Backend developer
 -----------------
 
 * 🌍  I'm based in Ibadan,Nigeria
-* ✉️  You can contact me at [ideraoladejo@gmail.co](mailto:ideraoladejo@gmail.co )
+* ✉️  You can contact me at ideraoladejo@gmail.com
 
 ### Skills
 
